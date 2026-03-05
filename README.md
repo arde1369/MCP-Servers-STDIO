@@ -13,7 +13,7 @@ To install the `add_tool` MCP server, run the follow command:
       ]
     }
   }
-}
+}```
 
 
 This will fetch and set up the `mcp-server` from the specified Github repository.
